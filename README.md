@@ -62,8 +62,8 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/codedalex/fizzi-3d-website.git
-   cd fizzi-3d-website
+   git clone <repo-url>
+   cd your_repo_name
    ```
 
 2. **Install dependencies:**
